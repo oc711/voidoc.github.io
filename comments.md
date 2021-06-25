@@ -21,12 +21,6 @@ function bgChange(){
 window.onload = bgChange;
 </script>
 
-<meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-	<title></title>
-	<link rel="stylesheet" href="/css/player.css">
-
-
 
 
 
