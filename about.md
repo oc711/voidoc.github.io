@@ -1,13 +1,15 @@
 ---
 layout: page
-title: "About"
-description: "结构生活 " 
-header-img: "img/green.jpg"
+title: 关于我 
 ---
 
-这一页填写你的自我介绍。
 
 
+一个平平无奇的可爱算法工程师。
 
+<h2> 个人相关链接 </h2>  
 
+知乎：https://www.zhihu.com/people/lidimeng
+
+{% include comments.html %}
 
