@@ -13,12 +13,12 @@ comments: true
 <script src="/js/player.js"></script>
 	
 <script>
-function bgChange(){
-	var lis= $('.lib');
-	for(var i=0; i<lis.length; i+=2)
-	lis[i].style.background = 'rgba(246, 246, 246, 0.5)';
-}
-window.onload = bgChange;
+	function bgChange(){
+		var lis= $('.lib');
+		for(var i=0; i<lis.length; i+=2)
+		lis[i].style.background = 'rgba(246, 246, 246, 0.5)';
+	}
+	window.onload = bgChange;
 </script>
 
 
