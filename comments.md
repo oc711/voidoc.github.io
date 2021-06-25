@@ -10,15 +10,9 @@ comments: true
 
 
 <script src="/js/jquery.min.js"></script>
-<script src="/js/jquery.marquee.min.js"></script>
-
-
-  var isRotate = true;
-  var autoplay = true;
-</script>
 <script src="/js/player.js"></script>
+	
 <script>
-
 function bgChange(){
 	var lis= $('.lib');
 	for(var i=0; i<lis.length; i+=2)
