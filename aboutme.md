@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 关于我 
+title: 关于我「ABOUT ME」 
+date: 2021-06-25
 ---
 
 一个平平无奇的可爱算法工程师。
