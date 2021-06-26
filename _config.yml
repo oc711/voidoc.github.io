@@ -71,3 +71,5 @@ paginate_path: "page/:num/"
 
 
 
+
+theme: jekyll-theme-minimal
