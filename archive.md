@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Archive"
-description: "文章归档"
-header-img: "img/orange.jpg"
+title: "所有文章「Archive」"
+description: "所有文章「Archive」"
+header-img: "images/semantic.jpg"
 ---
 
 
