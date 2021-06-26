@@ -17,9 +17,9 @@ comment:
 # Social
 social:
     weibo: Oceane711
-    weixing: lidimeng002 
+    weixin: lidimeng002 
     github: oc711
-    # twitter: 
+    zhihu: VoidOc
     mail: dimengli18@outlook.com
     csdn: none
 
@@ -31,7 +31,7 @@ permalink: /:short_year:i_month:i_day.html
 
 # Format
 
-highlighter: blue
+highlighter: rouge
 
 markdown: kramdown
 kramdown:
