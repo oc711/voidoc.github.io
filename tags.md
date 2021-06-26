@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "标签汇总「Tags」 "
-description: "Tags"  
+title: "标签汇总「Tags」"
+description: "标签汇总「Tags"  
 header-img: "images/semantic.jpg"  
 ---
 
