@@ -13,7 +13,7 @@ enableToc: true
 
 # Comment
 comment:
-    provider: 
+    provider: duoshuo
     duoshuo:
     short_name: VoidOc
 
