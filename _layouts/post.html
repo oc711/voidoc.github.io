@@ -32,7 +32,6 @@ layout: default
 </script>
 
 
-
 <script type="text/javascript"
    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
@@ -53,7 +52,6 @@ layout: default
     <div class="post-meta">
       <img src="/images/calendar.ico" width="20px"/> 
       <time datetime="{{page.date | date: date_to_xmlschema}}" itemprop="datePublished" class="post-meta__date date">{{page.date | date: "%F"}}</time>  
-
       <span id="busuanzi_container_page_pv"> | 阅读：<span id="busuanzi_value_page_pv"></span>次</span>
     </p>
     </div>
@@ -66,19 +64,16 @@ layout: default
 
 
   <section class="post">
-
     {{ content }}
   </section>
+
 </article>
 
-
-<hr><br/><br/>
-{% include share.html %}
 {% include new-old.html %}
+{% include comments.html %}
+
 
 <br/>
-
-
 <head>
     <meta charset="UTF-8">
     <title>Valine - A simple comment system based on Leancloud.</title>
