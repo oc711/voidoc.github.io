@@ -4,8 +4,9 @@ title: 关于我「ABOUT ME」
 ---
 
 一个平平无奇的可爱算法工程师。
+法国数学本硕，曾任华为算法工程师，现任阿里巴巴高级算法工程师。  
+
 
 <h3> 个人简历</h3>  
 
-[todo] 上传一份博客版简约个人简历
-
+<img src="https://www.imageoss.com/images/2021/06/29/7b5b32ad6b81b36bb364352acd2a28a99332a70b74678411.jpg" alt="博客简历" border="0">
